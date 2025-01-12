@@ -5,6 +5,9 @@
     From your gmail account, selcect "Manager your google account".
     Next, search for "app passwords".
     Finally, create and use the app password in this script.
+
+    PowerShell 7.4.6
+    https://github.com/PowerShell/PowerShell/releases/tag/v7.4.6
 #>
 
 # Load Libraries

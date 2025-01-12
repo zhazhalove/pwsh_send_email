@@ -7,6 +7,9 @@
           - Mail.Send
       - Authentication
         - Client secrets
+
+    PowerShell 7.4.6
+    https://github.com/PowerShell/PowerShell/releases/tag/v7.4.6
 #>
 $TenantId = ""
 $ApplicationId = ""
