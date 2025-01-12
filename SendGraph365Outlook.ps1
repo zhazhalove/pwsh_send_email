@@ -1,4 +1,6 @@
 <#
+    Send mail from 365 Online Outlook mailbox.
+
     Registered application
       - Graph API Application
         - API Permissions

@@ -1,4 +1,7 @@
 <#
+
+    Send email from Gmail mailbox.
+    
     From your gmail account, selcect "Manager your google account".
     Next, search for "app passwords".
     Finally, create and use the app password in this script.
